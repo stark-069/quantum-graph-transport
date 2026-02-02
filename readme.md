@@ -1,5 +1,9 @@
 # Quantum Network State Transport
 
+> **Project created for the IISc-IBM Qiskit Fall Fest 2025** 
+
+[📄 **Read the Full Problem Statement (PDF)**](Problem_Statement.pdf)
+
 > [!NOTE]
 > This repository contains a Qiskit implementation for transporting quantum states across asymmetric directed acyclic graphs (DAG). It addresses the **Parity Mismatch** problem inherent in specific network topologies using ancilla-assisted interference.
 
@@ -108,4 +112,4 @@ The x-axis represents the bitstring $|q_{anc} q_2 q_1 q_0\rangle$.
 * **Quantum Walks on Graphs:** *Kempe, J. (2003). Quantum random walks: an introductory overview.*
 
 ---
-*Authored by ABHIROOP GOHAR IIT INDORE*
+*Authored by ABHIROOP GOHAR, IIT INDORE*
