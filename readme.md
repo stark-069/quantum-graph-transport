@@ -59,14 +59,15 @@ The circuit mimics the time-evolution of the particle across the graph layers.
 
 Ensure you have **Python 3.10+** installed. It is recommended to use a virtual environment.
 
-```bash
-# Clone the repository
-git clone [https://github.com/AbhiroopGohar/quantum-graph-transport.git](https://github.com/AbhiroopGohar/quantum-graph-transport.git)
+### Clone the repository
+```
+git clone [https://github.com/stark-069/quantum-graph-transport.git](https://github.com/stark-069/quantum-graph-transport.git)
 cd quantum-graph-transport
-
-# Install dependencies
+```
+### Install dependencies
+```
 pip install -r requirements.txt
-
+```
 ---
 
 ## Results & Analysis
