@@ -12,6 +12,8 @@ Networks connect nodes, devices, and entities across complex systems — from bi
 This project solves a specific routing challenge:
 **Transporting a quantum state from Node A (Start) to Node B (End) where two distinct paths exist with different lengths.**
 
+![Problem Setup Diagram](problem_setup.png)
+
 * **Path 1 (Left):** 4 steps ($1 \to 2 \to 3/4 \to 5 \to 8$)
 * **Path 2 (Right):** 3 steps ($1 \to 6 \to 7 \to 8$)
 
